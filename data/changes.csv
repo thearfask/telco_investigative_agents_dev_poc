@@ -1,0 +1,4 @@
+change_id,event_time,entity_id,change_type,description,status,actor
+CHG-001,2026-09-01T08:02:13,AGG-02,qos_policy,Increase QoS queue weight for mobile-data class,completed,netops
+CHG-002,2026-08-31T10:02:13,PE-03,bgp_policy,Add backup prefix policy,completed,netops
+CHG-003,2026-09-01T09:42:13,ACC-07,software,Routine config save; no functional change,completed,automation

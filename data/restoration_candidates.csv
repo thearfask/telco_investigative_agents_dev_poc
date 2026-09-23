@@ -1,0 +1,5 @@
+path_id,source,next_hops,path_type,links,bottleneck_capacity_gbps,max_current_utilization_pct,estimated_latency_ms,status,notes
+PATH-A,AGG-02,PE-02,direct_primary,L-006,40,0,3,unavailable,Primary failed link
+PATH-B,AGG-02,AGG-01->PE-01,via_metro_a,L-008|L-005,20,41,8,available,Enough headroom for emergency restoration
+PATH-C,AGG-02,AGG-03->PE-03,via_metro_c,L-009|L-007,20,31,8,available,Best utilization among alternates
+PATH-D,AGG-02,AGG-01->AGG-03->PE-03,long_backup,L-008|L-010|L-007,10,41,16,available,Higher latency and lower bottleneck capacity

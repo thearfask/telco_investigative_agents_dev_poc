@@ -1,0 +1,16 @@
+service_id,service_name,service_type,priority,estimated_customers,home_metro
+SVC-001,Hospital-East,enterprise_vpn,P1,6500,METRO-B
+SVC-002,Bank-North,enterprise_vpn,P1,4200,METRO-B
+SVC-003,Emergency-Dispatch,mission_critical,P1,1800,METRO-B
+SVC-004,Mobile-Cluster-01,mobile_data,P3,7738,METRO-A
+SVC-005,Mobile-Cluster-02,mobile_data,P3,3412,METRO-A
+SVC-006,Mobile-Cluster-03,mobile_data,P3,2704,METRO-A
+SVC-007,Mobile-Cluster-04,mobile_data,P3,8574,METRO-A
+SVC-008,Mobile-Cluster-05,mobile_data,P2,4753,METRO-B
+SVC-009,Mobile-Cluster-06,mobile_data,P2,4506,METRO-B
+SVC-010,Mobile-Cluster-07,mobile_data,P2,4328,METRO-B
+SVC-011,Mobile-Cluster-08,mobile_data,P2,3643,METRO-B
+SVC-012,Mobile-Cluster-09,mobile_data,P3,8533,METRO-C
+SVC-013,Mobile-Cluster-10,mobile_data,P3,3339,METRO-C
+SVC-014,Mobile-Cluster-11,mobile_data,P3,8043,METRO-C
+SVC-015,Mobile-Cluster-12,mobile_data,P3,8567,METRO-C

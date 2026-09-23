@@ -1,0 +1,10 @@
+scenario_id,SCN-001
+incident_time,2026-09-01T10:02:13
+root_cause_type,fiber/uplink failure
+root_cause_link,L-006
+root_cause_location,PE-02 <-> AGG-02
+affected_metro,METRO-B
+expected_impacted_access_routers,ACC-05|ACC-06|ACC-07|ACC-08
+expected_impacted_cell_sites,CELL-05-1|CELL-05-2|CELL-05-3|CELL-06-1|CELL-06-2|CELL-06-3|CELL-07-1|CELL-07-2|CELL-07-3|CELL-08-1|CELL-08-2|CELL-08-3
+preferred_restoration_path,PATH-C
+why_path_c,Available; lower utilization than PATH-B; adequate capacity; lower risk than PATH-D

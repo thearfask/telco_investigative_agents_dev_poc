@@ -1,0 +1,32 @@
+alarm_id,event_time,entity_id,object_id,alarm_type,severity,message
+ALM-0031,2026-09-01T09:59:13,AGG-02,BGP,BGP_FLAP,warning,Single BGP neighbor flap recovered in 3 seconds
+ALM-0030,2026-09-01T10:00:51,PE-03,misc,CPU_HIGH,warning,Transient CPU threshold breach
+ALM-0027,2026-09-01T10:01:05,CELL-03-2,misc,CPU_HIGH,warning,Transient CPU threshold breach
+ALM-0001,2026-09-01T10:02:13,AGG-02,L-006,LOSS_OF_SIGNAL,critical,Optical loss of signal on uplink to PE-02
+ALM-0002,2026-09-01T10:02:14,PE-02,L-006,INTERFACE_DOWN,critical,Interface to AGG-02 changed state to down
+ALM-0007,2026-09-01T10:02:15,ACC-06,uplink,NODE_UNREACHABLE,major,Access router unreachable from NMS
+ALM-0015,2026-09-01T10:02:15,ACC-08,uplink,NODE_UNREACHABLE,major,Access router unreachable from NMS
+ALM-0003,2026-09-01T10:02:16,ACC-05,uplink,NODE_UNREACHABLE,major,Access router unreachable from NMS
+ALM-0005,2026-09-01T10:02:16,CELL-05-2,transport,S1_LINK_DOWN,major,Cell transport path unavailable
+ALM-0009,2026-09-01T10:02:16,CELL-06-2,transport,S1_LINK_DOWN,major,Cell transport path unavailable
+ALM-0011,2026-09-01T10:02:16,ACC-07,uplink,NODE_UNREACHABLE,major,Access router unreachable from NMS
+ALM-0013,2026-09-01T10:02:16,CELL-07-2,transport,S1_LINK_DOWN,major,Cell transport path unavailable
+ALM-0017,2026-09-01T10:02:16,CELL-08-2,transport,S1_LINK_DOWN,major,Cell transport path unavailable
+ALM-0004,2026-09-01T10:02:17,CELL-05-1,transport,S1_LINK_DOWN,major,Cell transport path unavailable
+ALM-0006,2026-09-01T10:02:17,CELL-05-3,transport,S1_LINK_DOWN,major,Cell transport path unavailable
+ALM-0008,2026-09-01T10:02:17,CELL-06-1,transport,S1_LINK_DOWN,major,Cell transport path unavailable
+ALM-0010,2026-09-01T10:02:17,CELL-06-3,transport,S1_LINK_DOWN,major,Cell transport path unavailable
+ALM-0012,2026-09-01T10:02:17,CELL-07-1,transport,S1_LINK_DOWN,major,Cell transport path unavailable
+ALM-0014,2026-09-01T10:02:17,CELL-07-3,transport,S1_LINK_DOWN,major,Cell transport path unavailable
+ALM-0016,2026-09-01T10:02:17,CELL-08-1,transport,S1_LINK_DOWN,major,Cell transport path unavailable
+ALM-0018,2026-09-01T10:02:17,CELL-08-3,transport,S1_LINK_DOWN,major,Cell transport path unavailable
+ALM-0019,2026-09-01T10:02:18,SVC-001,service,SERVICE_DEGRADED,critical,Hospital-East service unavailable/degraded
+ALM-0020,2026-09-01T10:02:18,SVC-002,service,SERVICE_DEGRADED,critical,Bank-North service unavailable/degraded
+ALM-0021,2026-09-01T10:02:18,SVC-003,service,SERVICE_DEGRADED,critical,Emergency-Dispatch service unavailable/degraded
+ALM-0022,2026-09-01T10:02:18,SVC-008,service,SERVICE_DEGRADED,major,Mobile-Cluster-05 service unavailable/degraded
+ALM-0023,2026-09-01T10:02:18,SVC-009,service,SERVICE_DEGRADED,major,Mobile-Cluster-06 service unavailable/degraded
+ALM-0024,2026-09-01T10:02:18,SVC-010,service,SERVICE_DEGRADED,major,Mobile-Cluster-07 service unavailable/degraded
+ALM-0025,2026-09-01T10:02:18,SVC-011,service,SERVICE_DEGRADED,major,Mobile-Cluster-08 service unavailable/degraded
+ALM-0029,2026-09-01T10:02:31,CELL-10-1,misc,CPU_HIGH,warning,Transient CPU threshold breach
+ALM-0026,2026-09-01T10:03:02,ACC-02,misc,CPU_HIGH,warning,Transient CPU threshold breach
+ALM-0028,2026-09-01T10:03:14,ACC-11,misc,CPU_HIGH,warning,Transient CPU threshold breach

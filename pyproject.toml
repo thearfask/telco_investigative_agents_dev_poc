@@ -1,0 +1,19 @@
+[project]
+name = "telco-fault-investigator-agentic"
+version = "0.2.0"
+description = "Agentic, topology-aware telecom fault localization, blast-radius analysis, and restoration planning"
+requires-python = ">=3.12"
+dependencies = [
+    "duckdb>=1.1.0",
+    "langchain-core>=0.3.0",
+    "langchain-openai>=0.3.0",
+    "langgraph>=0.2.0",
+    "networkx>=3.4",
+    "pandas>=2.2",
+    "plotly>=5.24",
+    "pydantic>=2.9",
+    "streamlit>=1.40"
+]
+
+[tool.uv]
+package = false

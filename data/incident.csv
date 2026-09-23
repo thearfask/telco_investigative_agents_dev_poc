@@ -1,0 +1,6 @@
+incident_id,INC-DEMO-001
+opened_at,2026-09-01T10:02:33
+priority,P1
+summary,Multiple mobile sites and enterprise services in Metro B became unreachable within seconds.
+symptoms,Alarm storm across access routers/cell sites; three P1 enterprise services degraded; NOC has not yet identified common cause.
+operator_question,"Find the most likely originating fault, quantify blast radius, identify affected high-priority services, and recommend the safest viable restoration path."
